@@ -25,10 +25,13 @@ wordCookie install:
 Download the file:
   git clone https://github.com/andrey-austin/wordCookie.git
 
-Make executable:
-  chmod +x wordCookie.py
+Move into directory:
+cd wordCookie
 
-Run wordCookie:
+Make executable:
+  chmod +x wordcookie.py
+
+Run wordcookie:
 type: python into the terminal, followed by the script name, then the word/letters you want to find. See example below.
 
-python wordCookie.py word
+python wordcookie.py word
